@@ -1,4 +1,4 @@
-public class UC6 {
+ public class UC6 {
     public static String[] getOPattern() {
         return new String[]{
                 " ***** ",
