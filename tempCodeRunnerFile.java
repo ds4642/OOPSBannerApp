@@ -36,7 +36,7 @@ public class UC8 {
 
         String word = "OOPS";
 
-        for (int i = 0; i < 5; i++) {   
+        for (int i = 0; i < 6; i++) {   // 6 rows
             for (int j = 0; j < word.length(); j++) {
                 char ch = word.charAt(j);
                 System.out.print(map.get(ch)[i] + "   ");
